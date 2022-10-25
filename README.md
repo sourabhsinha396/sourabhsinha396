@@ -15,7 +15,7 @@
 - :partying_face: 2300+ Stackoverflow Points, 50+ Answers [Stackoverflow](https://stackoverflow.com/users/11652661/nofoobar)
 <br>
 
-
+Reach out to me at: [LinkedIn](https://www.linkedin.com/in/nofoobar/) 
 #### Languages and Tools
 
 
