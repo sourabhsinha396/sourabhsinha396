@@ -8,7 +8,7 @@
 ## :sassy_man:  About me
 - :school: I am a `Software Developer` with around 3 years of experience.
 - :trophy: `Blog` I love to write on Clean Code, Unit Testing, Databases and Python Frameworks [FastapiTutorial](https://www.fastapitutorial.com/blogs/).
-- :technologist: I have experience with Background Tasks, Advanced Query Optimization , Websockets and much more. `Perks of being at startup!`
+- :technologist: I have experience with Background Tasks, Advanced Query Optimization , Websockets and much more.
 - :computer: I do some competitive programming [nofoobar](https://leetcode.com/nofoobar/)
 - :student: I’m currently learning: `PostgresQL` and `Database Designing`.
 - :thinking: I’m currently open for: `Senior Software Development Positions`
