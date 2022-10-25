@@ -7,11 +7,11 @@
 
 ## :sassy_man:  About me
 - :school: I am a `Software Developer` with around 3 years of experience.
-- :trophy: `Blog` I love to write on Clean Code, Unit Testing, Databases and Python Frameworks[FastapiTutorial](https://www.fastapitutorial.com/blogs/).
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Codeforces`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
+- :trophy: `Blog` I love to write on Clean Code, Unit Testing, Databases and Python Frameworks [FastapiTutorial](https://www.fastapitutorial.com/blogs/).
+- :technologist: I have experience with Background Tasks, Advanced Query Optimization , Websockets and much more. `Perks of being at startup!`
+- :computer: I do some competitive programming [nofoobar](https://leetcode.com/nofoobar/)
+- :student: I’m currently learning: `PostgresQL` and `Database Designing`.
+- :thinking: I’m currently open for: `Senior Software Development Positions`
 - :nerd_face: Always `learning new things`
 
 <br>
