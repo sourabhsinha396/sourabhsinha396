@@ -1,13 +1,13 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Sourabh</h1>
+<h1 align="center">Aloha! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Sourabh</h1>
 <h4 align="center">a Software developer with experience of working at 2 early-age startups.</h4>
 </div>
 
 
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
-- :trophy: `ACPC` Finalist 2021
+- :school: I am a `Software Developer` with around 3 years of experience.
+- :trophy: `Blog` I love to write on Clean Code, Unit Testing, Databases and Python Frameworks[FastapiTutorial](https://www.fastapitutorial.com/blogs/).
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
