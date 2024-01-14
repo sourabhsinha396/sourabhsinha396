@@ -6,7 +6,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Software Developer` with around 3 years of experience.
+- :school: I am a `Software Developer` with 4+ years of experience.
 - :trophy: `Blog` I love to write on Clean Code, Unit Testing, Databases and Python Frameworks [FastapiTutorial](https://www.fastapitutorial.com/blogs/).
 - :technologist: I have experience with Background Tasks, Advanced Query Optimization , Websockets and much more.
 - :computer: I do some competitive programming [nofoobar](https://leetcode.com/nofoobar/)
