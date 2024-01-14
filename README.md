@@ -10,9 +10,9 @@
 - :trophy: `Blog` I love to write on Clean Code, Unit Testing, Databases and Python Frameworks [FastapiTutorial](https://www.fastapitutorial.com/blogs/).
 - :technologist: I have experience with Background Tasks, Advanced Query Optimization , Websockets and much more.
 - :computer: I do some competitive programming [nofoobar](https://leetcode.com/nofoobar/)
-- :student: I’m currently learning: `PostgresQL` and `Database Designing`.
+- :student: I’m currently learning: `Database Query optimization` and `Database Designing`.
 - :thinking: I’m currently open for: `Senior Software Development Positions`
-- :partying_face: 2300+ Stackoverflow Points, 50+ Answers [Stackoverflow](https://stackoverflow.com/users/11652661/nofoobar)
+- :partying_face: 3000+ Stackoverflow Points, 50+ Answers [Stackoverflow](https://stackoverflow.com/users/11652661/nofoobar)
 <br>
 
 Reach out to me at: [LinkedIn](https://www.linkedin.com/in/nofoobar/) 
