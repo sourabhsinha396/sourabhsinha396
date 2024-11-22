@@ -1,12 +1,12 @@
 <div align="center">
 <h1 align="center">Aloha! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Sourabh</h1>
-<h4 align="center">a Software developer with experience of working at 2 early-age startups.</h4>
+<h4 align="center">a Software developer with experience of working at 3 early-age startups.</h4>
 </div>
 
 
 
 ## :sassy_man:  About me
-- :school: I am a `Software Developer` with 4+ years of experience.
+- :school: I am a `Software Developer` with 5+ years of experience.
 - :trophy: `Blog` I love to write on Clean Code, Unit Testing, Databases and Python Frameworks [FastapiTutorial](https://www.fastapitutorial.com/blogs/).
 - :technologist: I have experience with Background Tasks, Advanced Query Optimization , Websockets and much more.
 - :computer: I do some competitive programming [nofoobar](https://leetcode.com/nofoobar/)
